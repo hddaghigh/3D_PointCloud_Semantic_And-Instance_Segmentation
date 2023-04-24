@@ -39,7 +39,7 @@ Here is the first example of an image and the corresponding point cloud:
 ![Alt text](Voxelgridseize.png)
 
 ## Second example: raw and labeled point cloud
-![Alt text](Photo_PC1_mask.png)
+![Alt text](Photo_PC1_mask_.png)
 
 ## Performance metrics for the discontinuity planes extracted 
 | Plane No.      | Precision (%)  | Recall (%) | F1 (%) | IOU(%) |
